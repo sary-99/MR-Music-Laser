@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fab135712f1563447bdcc6e26fe08efb, type: 3}
+  m_Name: StartGameInfo
+  m_EditorClassIdentifier: 
+  isAuthority: 1
+  isMetaQuest: 1
+  isPc: 0
+  isObserver: 0
+  hideEffectMesh: 1

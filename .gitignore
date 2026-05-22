@@ -73,3 +73,19 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#Add
+/Plantuml/*
+
+/Assets/Dance/仮装狂騒曲.anim
+/Assets/Dance/仮装狂騒曲.anim.meta
+
+/Assets/taskResult/*
+/Assets/taskResult.meta
+
+#公開用
+/Assets/NoribenLunch/*
+/Assets/NoribenLunch.meta
+
+/Assets/Dance/*
+/Assets/Dance.meta

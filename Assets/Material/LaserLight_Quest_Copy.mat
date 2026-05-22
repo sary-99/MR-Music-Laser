@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LaserLight_Quest_Copy
+  m_Shader: {fileID: 4800000, guid: 65627c63328f81740a9c1c731403deb3, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - AudioLinkOn
+  m_InvalidKeywords:
+  - AudioLinkSyncOn
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 72c70a6b89243444e9757b8472827b78, type: 3}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RenderTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Volume:
+        m_Texture: {fileID: 11700000, guid: 3d6ccb3d7edded2419e65ef34fc00a78, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AudioLinkFiltering: 0.01
+    - _AudioLinkIntensity: 1
+    - _AudioLinkOn: 1
+    - _AudioLinkSync: 1
+    - _AudioLinkSyncOn: 1
+    - _AudioLinkType: 0
+    - _AudioLinkVal: 0
+    - _Beams: 1
+    - _Brightness: 3
+    - _BrightnessClamp: 1
+    - _BumpScale: 1
+    - _Chase: -0.54
+    - _ChaseL: 1.1
+    - _ChaseR: 1.1
+    - _ChaseSpeed: -0.5
+    - _ChaseToggle: 0
+    - _ChaseWidth: 0.6
+    - _ColorSpeed: 1
+    - _ColorSpped: 8.3
+    - _ConeLength: 1
+    - _ConeWidth: 0
+    - _ConeWidthAnim: 0
+    - _ConeWidthSpeed: 1
+    - _Contrast: 5
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Flash: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HueRotation: 0
+    - _Intensity: 1.49
+    - _IntensityClamp: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _Noise: 0.85
+    - _NoisePower: 0.329
+    - _NoisePower2: 0.318
+    - _NoiseSize: 0.13
+    - _NoiseSize2: 2.6
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RandomFlash: 0
+    - _Scroll: 0
+    - _SmoothnessTextureChannel: 0
+    - _Soft: 100
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SwingSpeed: 0
+    - _SwingWidth: 0.001
+    - _Thickness: 1
+    - _Transparency: 0
+    - _Triangle: 0
+    - _UVSec: 0
+    - _Width: 0.8
+    - _ZWrite: 1
+    - _rootIntensity: 0
+    m_Colors:
+    - _BackgroundColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color1: {r: 1, g: 1, b: 1, a: 1}
+    - _Color2: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _NoiseScroll: {r: 0.1, g: 0.1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
