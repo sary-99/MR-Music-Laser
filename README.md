@@ -16,7 +16,9 @@ PCでの操作は、Windows用にビルドするのではなくUnityEditorでプ
 
 ### ビルド方法
 MetaHorizon開発者ダッシュボードでアプリを登録する<br>
-参考: https://developers.meta.com/horizon/documentation/unity/unity-ssa-sf/ 
+参考: https://developers.meta.com/horizon/documentation/unity/unity-ssa-sf/ <br>
+レーザー演出に noriben様の[レーザーライトシェーダー](https://booth.pm/ja/items/2141514)を使用している
+
 <br>
 [Meta Quest Developer Hub](https://developers.meta.com/horizon/documentation/unity/ts-mqdh/?locale=ja_JP)でapkファイルをMetaQuestにアップロード<br>
 
