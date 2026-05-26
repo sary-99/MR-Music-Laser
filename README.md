@@ -1,10 +1,12 @@
 # MR Music Laser
 ### 概要
 部屋の天井から、音に反応して光るレーザーが照射される。
+
 ### 動作確認済み環境
 Unity version: 6000.0.70f1<br>
 MR device: MetaQuest3<br>
 PC: Windows11
+
 ### 前提条件
 必要機材: MetaQuestとPC(操作用)が必要<br>
 MetaQuest3の本体設定より、「スペースの設定」を実行済み
