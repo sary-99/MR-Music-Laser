@@ -1,6 +1,11 @@
 # MR Music Laser
 ### 概要
-部屋の天井から、音に反応して光るレーザーが照射される。
+部屋の天井から、音に反応して光るレーザーが照射される<br>
+<img src="img/ensyutusya.gif" width="256">
+<img src="img/sityousya.gif" width="256">
+<br>左：演出者視点, 右：視聴者視点<br>
+
+
 
 ### 動作確認済み環境
 Unity version: 6000.0.70f1<br>
